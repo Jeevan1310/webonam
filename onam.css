@@ -26,3 +26,29 @@ body {
     -webkit-animation-direction: alternate;
     animation-direction: alternate;
 }
+.home {
+    
+    
+    height: 720px;
+    width:auto ;
+    text-align: center;
+    color: azure;
+    padding: 300px;
+    
+}
+
+.xyz img{
+    width: 350px;
+    height: auto;
+}
+.red img{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+.bat{
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    
+}
